@@ -42,4 +42,4 @@ module.exports = function (app) {
       });
   });
 
-}; //end of export
+};
